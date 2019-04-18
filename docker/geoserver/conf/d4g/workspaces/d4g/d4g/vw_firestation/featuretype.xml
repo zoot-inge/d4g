@@ -1,0 +1,41 @@
+<featureType>
+  <id>FeatureTypeInfoImpl--79d32ea7:16a317eb94d:-7ffc</id>
+  <name>vw_firestation</name>
+  <nativeName>vw_firestation</nativeName>
+  <namespace>
+    <id>NamespaceInfoImpl--79d32ea7:16a317eb94d:-7ffe</id>
+  </namespace>
+  <title>vw_firestation</title>
+  <keywords>
+    <string>features</string>
+    <string>vw_firestation</string>
+  </keywords>
+  <srs>EPSG:28992</srs>
+  <nativeBoundingBox>
+    <minx>634.5732789819012</minx>
+    <maxx>284300.0254094796</maxx>
+    <miny>306594.5543000576</miny>
+    <maxy>636981.7698870846</maxy>
+    <crs class="projected">EPSG:28992</crs>
+  </nativeBoundingBox>
+  <latLonBoundingBox>
+    <minx>3.0511703974633724</minx>
+    <maxx>7.346119662163627</maxx>
+    <miny>50.72880395487337</miny>
+    <maxy>53.71864904182287</maxy>
+    <crs>EPSG:4326</crs>
+  </latLonBoundingBox>
+  <projectionPolicy>FORCE_DECLARED</projectionPolicy>
+  <enabled>true</enabled>
+  <metadata>
+    <entry key="cachingEnabled">false</entry>
+  </metadata>
+  <store class="dataStore">
+    <id>DataStoreInfoImpl--79d32ea7:16a317eb94d:-7ffd</id>
+  </store>
+  <maxFeatures>0</maxFeatures>
+  <numDecimals>0</numDecimals>
+  <overridingServiceSRS>false</overridingServiceSRS>
+  <skipNumberMatched>false</skipNumberMatched>
+  <circularArcPresent>false</circularArcPresent>
+</featureType>
